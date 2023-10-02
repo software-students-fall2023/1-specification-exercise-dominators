@@ -47,7 +47,7 @@ To develop a user-friendly and efficient event ticket tracker that offers real-t
 ![UML Activity Diagram](<UML Activity Diagram.png>)
 
 ## Wireframes
- See the Wireframes folder.
+https://www.figma.com/file/2azOzV38eHhPkgxjwUogZd/Untitled?type=design&node-id=0%3A1&mode=design&t=IIlVMRvo31fPJf4x-1
 
 ## Clickable Prototype
 
