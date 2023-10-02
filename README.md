@@ -45,7 +45,7 @@ To develop a user-friendly and efficient event ticket tracker that offers real-t
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+**Wireframes:** See the Wireframes folder.
 
 ## Clickable Prototype
 
