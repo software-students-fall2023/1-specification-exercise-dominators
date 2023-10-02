@@ -44,8 +44,10 @@ To develop a user-friendly and efficient event ticket tracker that offers real-t
 10. **As a user**, I want a user-friendly interface so that I can navigate through the app efficiently and without confusion.
 
 ## Activity Diagrams
+![UML Activity Diagram](<UML Activity Diagram.png>)
 
-**Wireframes:** See the Wireframes folder.
+## Wireframes
+ See the Wireframes folder.
 
 ## Clickable Prototype
 
