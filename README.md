@@ -32,7 +32,16 @@ To develop a user-friendly and efficient event ticket tracker that offers real-t
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+1. **As an event goer**, I want to receive instant notifications about ticket availability so that I can purchase tickets for high-demand events before they sell out.
+2. **As a user**, I want to access to the ticket purchase link when I receive the notification.
+3. **As a concert enthusiast**, I want to search for events based on my preferences so that I can easily find events I am interested in.
+4. **As a user**, I want to access my profile in a secure way.
+5. **As an individual**, I want to set preferences for notifications so that I receive alerts about events that match my interests.
+6. **As a user**, I want to view detailed information about events and available tickets so that I can make informed purchasing decisions.
+7. **As an event goer**, I want to have access to exclusive deals and offers so that I can save money on ticket purchases.
+8. **As a user**, I want to add myself into the event watchlist so that I would not miss the event openings.
+9. **As a concert enthusiast**, I want to share event details and ticket availability with my friends so that we can plan to attend events together.
+10. **As a user**, I want a user-friendly interface so that I can navigate through the app efficiently and without confusion.
 
 ## Activity Diagrams
 
